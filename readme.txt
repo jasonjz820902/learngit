@@ -11,4 +11,8 @@ asd
 zxcv
 >>>>>>> slave
 tgb
+<<<<<<< HEAD
 yhn
+=======
+rfv
+>>>>>>> slave
