@@ -4,4 +4,9 @@
 44890
 5
 6
+<<<<<<< HEAD
 qwer
+=======
+asd
+zxcv
+>>>>>>> slave
