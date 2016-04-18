@@ -4,15 +4,9 @@
 44890
 5
 6
-<<<<<<< HEAD
 qwer
-=======
 asd
 zxcv
->>>>>>> slave
 tgb
-<<<<<<< HEAD
 yhn
-=======
 rfv
->>>>>>> slave
